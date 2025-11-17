@@ -20,4 +20,4 @@ This recreated version of  mine has a allows media control and allows you to mov
 
 ## Result:
 
-he Heuristic Evaluation of an Existing Website or App is created and verified.
+The Heuristic Evaluation of an Existing Website or App is created and verified.
